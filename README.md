@@ -17,8 +17,7 @@
           >Cencosud</h3>
         <ul>
             <li>Increased organic traffic through keyword analysis,
-          website optimization,to <a href="www.paris.cl/"
-            class="pinned-item-meta Link--muted"
+          website optimization, to <a href="www.paris.cl/" class="pinned-item-meta Link--muted"
           >Paris.cl</a> and advanced SEO tactics.</li>
             <li>Managed link-building strategies and collaborated with cross-functional teams to ensure successful SEO implementation.</li>
         </ul>
