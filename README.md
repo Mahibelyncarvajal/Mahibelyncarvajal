@@ -45,13 +45,9 @@
             <li>Project Management</li>
         </ul>
     </section>
-    <section id="projects">
-        <h2>Projects</h2>
-        <p>Include a few relevant public projects with brief descriptions and links.</p>
-    </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>Consider a link to your professional website or <a href="https://www.linkedin.com">LinkedIn profile</a>.</p>
+        <p>Consider a link to your professional website or <a href="https://www.linkedin.com/mahibelyn-carvajal/">LinkedIn profile</a>.</p>
     </section>
 </body>
 </html>
