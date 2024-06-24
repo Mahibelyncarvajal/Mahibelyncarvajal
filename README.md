@@ -16,10 +16,10 @@
             class="pinned-item-meta Link--muted"
           >Cencosud</h3>
         <ul>
-            <li>Increased organic traffic through keyword analysis,<a
-            href="www.paris.cl/"
+            <li>Increased organic traffic through keyword analysis,
+          website optimization,to <a href="www.paris.cl/"
             class="pinned-item-meta Link--muted"
-          > website optimization</a>, and advanced SEO tactics.</li>
+          Paris.cl</a>and advanced SEO tactics.</li>
             <li>Managed link-building strategies and collaborated with cross-functional teams to ensure successful SEO implementation.</li>
         </ul>
         <h3>Search & Acquisition Specialist at  <a href="www.nestle.cl/"
