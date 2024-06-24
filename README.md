@@ -5,9 +5,6 @@
     <header>
         <h1>Mahibelyn Carvajal | SEO Specialist & Data Analyst</h1>
     </header>
-    <section id="bio">
-        <p>Passionate SEO specialist and data analyst with a proven ability to boost organic traffic and brand positioning.</p>
-    </section>
     <section id="about-me">
         <h2>About Me</h2>
         <p>A highly motivated problem-solver with a knack for innovation. My diverse educational background in commercial engineering, business administration (finance), and a technical degree allows me to approach digital marketing from a strategic and analytical perspective.</p>
