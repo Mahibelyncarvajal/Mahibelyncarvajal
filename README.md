@@ -47,7 +47,7 @@
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>Consider a link to your professional website or <a href="https://www.linkedin.com/mahibelyn-carvajal/">LinkedIn profile</a>.</p>
+        <p> <a href="[https://www.linkedin.com/mahibelyn-carvajal/](https://www.linkedin.com/in/mahibelyn-carvajal/)">LinkedIn profile</a>.</p>
     </section>
 </body>
 </html>
