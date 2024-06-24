@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahibelyn Carvajal | SEO Specialist & Data Analyst</title>
+</head>
+<body>
+    <header>
+        <h1>Mahibelyn Carvajal | SEO Specialist & Data Analyst</h1>
+    </header>
+    <section id="bio">
+        <p>Passionate SEO specialist and data analyst with a proven ability to boost organic traffic and brand positioning.</p>
+    </section>
+    <section id="about-me">
+        <h2>About Me</h2>
+        <p>A highly motivated problem-solver with a knack for innovation. My diverse educational background in commercial engineering, business administration (finance), and a technical degree allows me to approach digital marketing from a strategic and analytical perspective.</p>
+    </section>
+    <section id="experience">
+        <h2>Experience</h2>
+        <h3>SEO Specialist at <a
+            href="www.paris.cl/"
+            class="pinned-item-meta Link--muted"
+          >Cencosud</h3>
+        <ul>
+            <li>Increased organic traffic by X% through keyword analysis, website optimization, and advanced SEO tactics.</li>
+            <li>Managed link-building strategies and collaborated with cross-functional teams to ensure successful SEO implementation.</li>
+        </ul>
+        <h3>Search & Acquisition Specialist at Nestlé</h3>
+        <ul>
+            <li>Led SEO agencies to achieve a 30% increase in organic traffic.</li>
+            <li>Developed data-driven strategies to grow 1st party data acquisition by 40% and improve CRM processes, leading to a 25% increase in email open rates.</li>
+        </ul>
+        <h3>Digital Marketing Analyst at Nestlé</h3>
+        <ul>
+            <li>Led website implementations and UX strategies, focusing on user experience and efficient reporting.</li>
+        </ul>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>SEO</li>
+            <li>SEM</li>
+            <li>Data Analysis</li>
+            <li>Keyword Research</li>
+            <li>Content Marketing</li>
+            <li>Project Management</li>
+        </ul>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Include a few relevant public projects with brief descriptions and links.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Consider a link to your professional website or <a href="https://www.linkedin.com">LinkedIn profile</a>.</p>
+    </section>
+</body>
+</html>
