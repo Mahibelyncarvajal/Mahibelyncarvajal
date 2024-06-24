@@ -1,11 +1,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mahibelyn Carvajal | SEO Specialist & Data Analyst</title>
-</head>
 <body>
     <header>
         <h1>Mahibelyn Carvajal | SEO Specialist & Data Analyst</h1>
@@ -24,10 +19,12 @@
             class="pinned-item-meta Link--muted"
           >Cencosud</h3>
         <ul>
-            <li>Increased organic traffic by X% through keyword analysis, website optimization, and advanced SEO tactics.</li>
+            <li>Increased organic traffic through keyword analysis, website optimization, and advanced SEO tactics.</li>
             <li>Managed link-building strategies and collaborated with cross-functional teams to ensure successful SEO implementation.</li>
         </ul>
-        <h3>Search & Acquisition Specialist at Nestlé</h3>
+        <h3>Search & Acquisition Specialist at  href="www.nestle.cl/"
+            class="pinned-item-meta Link--muted"
+          </h3>Nestlé</h3>
         <ul>
             <li>Led SEO agencies to achieve a 30% increase in organic traffic.</li>
             <li>Developed data-driven strategies to grow 1st party data acquisition by 40% and improve CRM processes, leading to a 25% increase in email open rates.</li>
